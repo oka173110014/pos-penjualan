@@ -1,1 +1,1 @@
-# pos-penjualan
+# pos-sales
